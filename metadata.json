@@ -1,0 +1,8 @@
+{
+  "name": "FlowGuard AI",
+  "description": "AI-powered financial management, smart invoicing, payment recovery, and cash flow forecasting platform for Indian MSMEs and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
